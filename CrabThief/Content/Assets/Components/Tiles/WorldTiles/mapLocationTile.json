@@ -1,0 +1,6 @@
+{
+  "name": "Map Location Tile",
+  "width": 48,
+  "height": 48,
+  "texturePath": "Assets/Textures/Tiles/WorldTiles/backgroundTile"
+}

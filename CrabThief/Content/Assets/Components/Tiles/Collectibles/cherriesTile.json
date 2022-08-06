@@ -1,0 +1,7 @@
+{
+  "name": "Cherries",
+  "width": 16,
+  "height": 16,
+  "texturePath": "Assets/Textures/Tiles/Collectibles/cherries",
+  "collectedAudioPath": "Assets/Sounds/collectItem"
+}

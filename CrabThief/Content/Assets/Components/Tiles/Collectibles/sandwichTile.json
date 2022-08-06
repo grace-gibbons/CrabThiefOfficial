@@ -1,0 +1,7 @@
+{
+  "name": "Sandwich",
+  "width": 16,
+  "height": 16,
+  "texturePath": "Assets/Textures/Tiles/Collectibles/sandwich",
+  "collectedAudioPath": "Assets/Sounds/collectItem"
+}

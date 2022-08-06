@@ -1,0 +1,7 @@
+{
+  "name": "Golden Crab",
+  "width": 16,
+  "height": 16,
+  "texturePath": "Assets/Textures/Tiles/Collectibles/map",
+  "collectedAudioPath": "Assets/Sounds/collectItem"
+}

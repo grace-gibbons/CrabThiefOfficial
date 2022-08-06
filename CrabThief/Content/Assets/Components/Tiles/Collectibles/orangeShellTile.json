@@ -1,0 +1,7 @@
+{
+  "name": "Orange Shell",
+  "width": 16,
+  "height": 16,
+  "texturePath": "Assets/Textures/Tiles/Collectibles/orangeShell",
+  "collectedAudioPath": "Assets/Sounds/collectItem"
+}

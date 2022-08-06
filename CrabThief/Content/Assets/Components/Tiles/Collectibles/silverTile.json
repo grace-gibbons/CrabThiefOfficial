@@ -1,0 +1,7 @@
+{
+  "name": "Silver",
+  "width": 16,
+  "height": 16,
+  "texturePath": "Assets/Textures/Tiles/Collectibles/silverChange",
+  "collectedAudioPath": "Assets/Sounds/collectItem"
+}
