@@ -2,6 +2,7 @@
 Welcome to Crab Thief. You are a very hungry crab.
 
 Project Started on March 28, 2022 and completed on June 1, 2022.
+Coded in C# using monogame. Audio and visual assets created by me using BFXR and GIMP.
 
 Features: 
 <br/>A randomly generated maze with randomly placed collectible items.
